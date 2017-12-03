@@ -43,3 +43,4 @@ $ ./gradlew
   [![mutt dark](https://github.com/adhulappanavar/ecommerce-jhipster/blob/master/JhipsterJDLStudioEntityDiagram4Ecomm.png)](https://github.com/adhulappanavar/ecommerce-jhipster/blob/master/JhipsterJDLStudioEntityDiagram4Ecomm.png)
   
 forked from https://github.com/adhulappanavar
+https://www.youtube.com/watch?v=u0X9DaxX4XM
